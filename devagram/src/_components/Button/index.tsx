@@ -1,6 +1,6 @@
 import { View, Text, TouchableOpacity, ActivityIndicator } from "react-native";
 import { IButton } from "./types";
-import { colors } from '../../app.json';
+import { colors } from '../../../app.json';
 
 import styles from './styles';
 

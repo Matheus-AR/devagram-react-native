@@ -2,8 +2,8 @@ import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
 import { useFonts, Inter_900Black } from "@expo-google-fonts/inter";
 import AppLoading from "expo-app-loading";
-import Button from "./src/Button";
-import Input from "./src/Input";
+import Button from "./src/_components/Button";
+import Input from "./src/_components/Input";
 import { useState } from "react";
 
 export default function App() {
